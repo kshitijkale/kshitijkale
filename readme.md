@@ -13,7 +13,7 @@ I am a staunch proponent of the Open Source, Open Science and hacker culture i.e
 
 ---
 
-If you're exploring intelligence , math , discovery , science or literature feel free to reach out.                                                                                                                                                                                                                                                                          
+If you're exploring intelligence , math , discovery , science or literature, feel free to reach out.                                                                                                                                                                                                                                                                          
 ```
    ...................................................................................................................................   
    ...................................................................................................................................   
